@@ -104,9 +104,10 @@ The implemented models include advanced architectures optimized for 3D segmentat
 ## 5. Results
 ### 5-1) Predictions
 Visual examples of segmentation results for complete and core tumors.
+
 **Case 1** 
 
-![](arcitecture/eg%201.jpegj)
+![](arcitecture/eg%201.jpeg)
 
 **Case 2** 
 

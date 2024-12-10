@@ -107,8 +107,8 @@ Visual examples of segmentation results for complete and core tumors.
 
 | **Case 1** | **Case 2** |
 |-------------------|----------------|
-| ![](arcitecture/vnet%20matrics.jpeg)
- | ![](arcitecture/vnet%20matrics.jpeg)
+| ![](arcitecture\eg 1.jpeg)
+ | ![](arcitecture\eg 2.jpeg)
  |
 
 ### 5-2) Metrics

@@ -106,11 +106,11 @@ The implemented models include advanced architectures optimized for 3D segmentat
 Visual examples of segmentation results for complete and core tumors.
 **Case 1** 
 
-![](arcitecture\eg 1.jpeg)
+![](arcitecture/eg 1.jpeg)
 
 **Case 2** 
 
-![](arcitecture\eg 2.jpeg)
+![](arcitecture/eg 2.jpeg)
  
 ### 5-2) Metrics
 | **Metric**    | **Value (3D U-Net)** | **Value (Swin-UNet)** | **Value (TransUNet)** |
